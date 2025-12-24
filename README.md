@@ -26,7 +26,7 @@ A **Group Manager Bot** built with **Pyrogram** + **MongoDB** for managing Teleg
 
 
 <details>
-<summary><b>🔸 Free Hosting</b></summary>
+<summary><b>✨ Free Hosting</b></summary>
 
 ---
 
@@ -45,7 +45,7 @@ A **Group Manager Bot** built with **Pyrogram** + **MongoDB** for managing Teleg
 
 ---
 <details>
-<summary><b>🔸 Deploy on VPS / Localhost</b></summary>
+<summary><b>✨ Deploy on VPS / Localhost</b></summary>
 
 ### 1. Fork & Star ⭐
 - Click **Fork** (top-right of GitHub repo)  
