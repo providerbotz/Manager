@@ -65,9 +65,9 @@ Highlights:
 # ==========================================================
     async def send_help_menu(message):
         text = """
-╔══════════════════╗
-     Help Menu
-╚══════════════════╝
+
+     
+<blockquote> Help Menu </blockquote>
 
 Choose a category below to explore commands:
 ─────────────────────────────
